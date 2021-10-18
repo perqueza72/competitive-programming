@@ -1,0 +1,8 @@
+/.cph
+/generadorDS.cpp
+/main.exe
+/pruebaNewtonMethod.cpp
+/queries.txt
+/redes.cpp
+*.exe
+*.bin
